@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TRAVIS BUILD INFO
 
 {<img src="https://travis-ci.org/skrinko/grey-lady.png?branch=master" alt="Build Status" />}[https://travis-ci.org/skrinko/grey-lady]
@@ -21,3 +22,7 @@ index has list link button
 
 index has list pictures button
 
+=======
+grey-lady-app
+=============
+>>>>>>> ea4eec4a35b2749264db5e30e25bdf608857d96f
